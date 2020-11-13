@@ -57,5 +57,5 @@ button1.addEventListener("click", function() {
 });
 
 document.addEventListener("keyup", function (event) {
-    console.log(event.key);
+    console.log(event);
 })
