@@ -1,0 +1,1 @@
+alert("As esu JS faile");
